@@ -1,5 +1,19 @@
 {
-    "name": "inserttomongo",
-    "version": "1.0.0",
-    "description": "Inserts csv file to MongoDB"
-  }
+  "name": "inserttomongo",
+  "version": "1.0.0",
+  "description": "Inserts csv file to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyhuang12138/CS20-HW14-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyhuang12138/CS20-HW14/issues"
+  },
+  "homepage": "https://github.com/tonyhuang12138/CS20-HW14#readme"
+}
