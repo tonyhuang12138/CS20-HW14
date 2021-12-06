@@ -1,5 +1,5 @@
 {
-    "name": "insertToMongo",
+    "name": "inserttomongo",
     "version": "1.0.0",
     "description": "Inserts csv file to MongoDB"
   }
